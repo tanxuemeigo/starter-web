@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tan -- txm14.3@gmail.com 
 
 # THANKS
 
