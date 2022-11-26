@@ -11,7 +11,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 
 ## How to Contribute
-
+Please forl this repository and the issue Pull Requests for review.
 
 ## Copyright
 Copyright 2022 Training
